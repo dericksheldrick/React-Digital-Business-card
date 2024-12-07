@@ -1,6 +1,9 @@
 # React-Digital-Business-card
+
 React Digital Business Card A modern, interactive digital business card application built with React. This app allows users to showcase their profile, interests, and contact information in a sleek and responsive layout.
+
 ## Features
+
 <ul>
   <li>Dynamic Profile Section: Display your name, role, and contact links</li>
   <li>Interests and About Sections: Share personal and professional interests</li>
@@ -9,6 +12,7 @@ React Digital Business Card A modern, interactive digital business card applicat
 </ul>
 
 ## File Structure
+
 ```plaintext
 src/
 ├── App.jsx            # Main component
@@ -20,7 +24,9 @@ src/
 └── index.css          # Global styles
 
 ```
+
 ## Technologies Used
+
 <ul>
   <li>React: For building user interfaces</li>
   <li>CSS: Styling components for a polished look.</li>
@@ -29,5 +35,5 @@ src/
 </ul>
 
 ## Deployment
-This project is hosted on <a href="www.netlify.com" target="-blank">Netlify</a>
 
+This project is hosted on <a href="www.netlify.com" target="-blank">Netlify</a>
